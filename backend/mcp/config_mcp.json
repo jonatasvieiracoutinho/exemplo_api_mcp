@@ -1,0 +1,16 @@
+{
+  "server": {
+    "name": "books-mcp",
+    "version": "0.1.0",
+    "host": "127.0.0.1",
+    "port": 8765
+  },
+  "endpoints": [
+    { "name": "books_add", "description": "Adicionar novo livro", "enabled": true },
+    { "name": "books_update", "description": "Atualizar livro existente", "enabled": true },
+    { "name": "books_delete", "description": "Remover livro", "enabled": true },
+    { "name": "books_get", "description": "Obter detalhes", "enabled": true },
+    { "name": "books_list", "description": "Listar livros", "enabled": true },
+    { "name": "books_search", "description": "Buscar livros por palavra-chave", "enabled": true }
+  ]
+}
