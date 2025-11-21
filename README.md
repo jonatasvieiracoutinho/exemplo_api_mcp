@@ -103,3 +103,7 @@ Detalhes e checklist: [docs/checklist-seguranca.md](docs/checklist-seguranca.md)
 - [Troubleshooting](docs/troubleshooting.md)
 
 Bom estudo! Qualquer duvida abra uma issue ou adapte o plano descrito aqui.
+
+---
+
+Autor: Jonatas Vieira Coutinho — [jonatasvieiracoutinho@gmail.com](mailto:jonatasvieiracoutinho@gmail.com)
