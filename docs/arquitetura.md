@@ -1,6 +1,6 @@
 # Arquitetura detalhada
 
-![Arquitetura](architecture.svg)
+![Arquitetura](Diagrama.png)
 
 ## Componentes
 
