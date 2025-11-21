@@ -19,7 +19,9 @@ Frontend (React)  -->  FastAPI /api/books  -->  book_service  -->  SQLAlchemy/SQ
 Cliente MCP       -->  FastMCP Server     -->  book_service  -->  SQLAlchemy/SQLite
 ```
 
-Diagrama completo em [docs/arquitetura.md](docs/arquitetura.md) (usa `docs/Diagrama.png`).
+![Arquitetura (visao rapida)](docs/Diagrama.png)
+
+Detalhes em [docs/arquitetura.md](docs/arquitetura.md) (usa `docs/Diagrama.png`).
 
 ## Como estudar rapidamente
 
