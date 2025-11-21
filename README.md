@@ -5,6 +5,12 @@ Aplicacao didatica que mostra como evoluir uma stack comum (FastAPI + SQLAlchemy
 > **Importante**  
 > Este projeto nao contem autenticacao, TLS, rate limiting ou qualquer outro controle de hardening. Rode apenas em ambiente local/de estudo. Para producao, siga as orientacoes em [docs/checklist-seguranca.md](docs/checklist-seguranca.md).
 
+## Para quem e este projeto?
+
+- Devs que querem um exemplo didatico de MCP rodando sobre uma API REST publica.
+- Instrutores que precisam de um material simples para aula/demonstracao.
+- Quem deseja aprender a estender um MCP com novas tools/rotas.
+
 ## Stack e foco didatico
 
 - **Backend REST**: FastAPI, SQLAlchemy, SQLite.
